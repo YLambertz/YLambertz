@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YLambertz
 - 👀 I’m interested in Automation and IOT Projects 
-- 🌱 I’m currently learning Pytho, OpenCV, OpcUA with ESP32
+- 🌱 I’m currently learning Python, OpenCV, OpcUA with ESP32
 - 💞️ I’m looking to collaborate on IIOT
 - 📫 
 
